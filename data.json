@@ -1,0 +1,42 @@
+[
+  {
+    "word": "Grapes",
+    "translated": "Uva",
+    "short_code_from": "EN",
+    "short_code_to": "IT",
+    "samples": [
+      {
+        "phrase": "She picked a bunch of grapes from the vine.",
+        "translated": "Ha raccolto un grappolo d'uva dalla vite."
+      },
+      {
+        "phrase": "Grapes are harvested in late summer.",
+        "translated": "L'uva viene raccolta a fine estate."
+      },
+      {
+        "phrase": "The grapes were sweet and juicy.",
+        "translated": "L'uva era dolce e succosa."
+      }
+    ]
+  },
+  {
+    "word": "Twirl",
+    "translated": "Girare",
+    "short_code_from": "EN",
+    "short_code_to": "IT",
+    "samples": [
+      {
+        "phrase": "She did a quick twirl in her new dress.",
+        "translated": "Ha fatto una rapida giravolta nel suo nuovo vestito."
+      },
+      {
+        "phrase": "The dancer twirled gracefully across the stage.",
+        "translated": "La ballerina ha girato con grazia attraverso il palco."
+      },
+      {
+        "phrase": "He twirled the pencil between his fingers.",
+        "translated": "Ha girato la matita tra le dita."
+      }
+    ]
+  }
+]
